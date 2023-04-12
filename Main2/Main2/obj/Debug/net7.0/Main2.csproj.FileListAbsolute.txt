@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\bin\Debug\net7.0\Main2.exe
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\bin\Debug\net7.0\Main2.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\bin\Debug\net7.0\Main2.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\bin\Debug\net7.0\Main2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\bin\Debug\net7.0\Main2.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\refint\Main2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\Main2.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\BT\Main2\Main2\obj\Debug\net7.0\ref\Main2.dll
